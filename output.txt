@@ -1,0 +1,7 @@
+Closest Pair Distance: 2.23607
+Sequential closest pair of points: (1, 1) and (2, 3)
+Sequential distance: 2.23607
+Sequential execution time: 0 milliseconds
+Parallel closest pair of points: (0, 0) and (0, 0)
+Parallel distance: 0
+Parallel execution time: 0 milliseconds
